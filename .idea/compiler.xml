@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="bradesco" />
         <module name="ciet" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bootcamp-bradesco" target="1.8" />
+      <module name="brade" target="25" />
     </bytecodeTargetLevel>
   </component>
 </project>
