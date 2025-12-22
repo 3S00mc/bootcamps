@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="468d8ce0-6585-45a8-94eb-14d13b569a14" name="Changes" comment="Modificação da estrutura dos bootcamps, e inicio do desafio de codigo junit.">
-      <change afterPath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/desafio_bootcamp/dominio/Conteudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/desafio_bootcamp/dominio/Dev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/desafio_bootcamp/dominio/Bootcamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/desafio_bootcamp/dominio/Bootcamp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/desafio_bootcamp/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/desafio_bootcamp/dominio/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/desafio_bootcamp/dominio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/desafio_bootcamp/dominio/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/desafio_bootcamp/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/desafio_bootcamp/dominio/Mentoria.java" afterDir="false" />
+    <list default="true" id="468d8ce0-6585-45a8-94eb-14d13b569a14" name="Changes" comment="Final. Conclusao do projeto bootcamp.">
+      <change afterPath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/log_teste_transacoes/LogTesteTransacoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/verificador_tamanho_formulario/VerificadorTamanhoNome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.LogTesteTransacoes.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.VerificadorTamanhoNome.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -69,7 +68,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.VerificadorTamanhoNome">
+    <configuration name="LogTesteTransacoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bradesco.desafios.log_teste_transacoes.LogTesteTransacoes" />
+      <module name="bootcamp-bradesco-java-junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bradesco.desafios.log_teste_transacoes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.bradesco.desafios.desafio_bootcamp.dominio.Main" />
       <module name="bootcamp-bradesco-java-junit" />
@@ -83,8 +95,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VerificadorTamanhoNome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bradesco.desafios.verificador_tamanho_formulario.VerificadorTamanhoNome" />
+      <module name="bootcamp-bradesco-java-junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bradesco.desafios.verificador_tamanho_formulario.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VerificadorTamanhoNome" />
+        <item itemvalue="Application.LogTesteTransacoes" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -104,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1766354296828</updated>
-      <workItem from="1766354298441" duration="11564000" />
+      <workItem from="1766354298441" duration="12850000" />
     </task>
     <task id="LOCAL-00001" summary="Modificação da estrutura dos bootcamps, e inicio do desafio de codigo junit.">
       <option name="closed" value="true" />
@@ -114,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766358474304</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Final. Conclusao do projeto bootcamp.">
+      <option name="closed" value="true" />
+      <created>1766367096051</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766367096051</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +172,7 @@
       <path value="$PROJECT_DIR$/ciet" />
     </ignored-roots>
     <MESSAGE value="Modificação da estrutura dos bootcamps, e inicio do desafio de codigo junit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modificação da estrutura dos bootcamps, e inicio do desafio de codigo junit." />
+    <MESSAGE value="Final. Conclusao do projeto bootcamp." />
+    <option name="LAST_COMMIT_MESSAGE" value="Final. Conclusao do projeto bootcamp." />
   </component>
 </project>
