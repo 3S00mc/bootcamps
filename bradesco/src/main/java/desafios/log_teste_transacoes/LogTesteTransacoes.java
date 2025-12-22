@@ -1,4 +1,4 @@
-package br.com.bradesco.desafios.log_teste_transacoes;
+package desafios.log_teste_transacoes;
 
 import java.util.Scanner;
 

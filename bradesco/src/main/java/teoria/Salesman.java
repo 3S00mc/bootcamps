@@ -1,4 +1,4 @@
-package br.com.bradesco.teoria;
+package teoria;
 
 public non-sealed class Salesman extends Employee{
 

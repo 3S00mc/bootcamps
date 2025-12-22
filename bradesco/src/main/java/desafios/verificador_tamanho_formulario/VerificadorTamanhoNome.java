@@ -1,4 +1,4 @@
-package br.com.bradesco.desafios.verificador_tamanho_formulario;
+package desafios.verificador_tamanho_formulario;
 
 import java.util.Scanner;
 

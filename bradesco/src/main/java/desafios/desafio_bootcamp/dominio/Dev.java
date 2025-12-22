@@ -1,6 +1,5 @@
-package br.com.bradesco.desafios.desafio_bootcamp.dominio;
+package desafios.desafio_bootcamp.dominio;
 
-import java.nio.file.OpenOption;
 import java.util.LinkedHashSet;
 import java.util.Objects;
 import java.util.Optional;

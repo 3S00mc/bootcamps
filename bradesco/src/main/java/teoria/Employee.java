@@ -1,4 +1,4 @@
-package br.com.bradesco.teoria;
+package teoria;
 
 public abstract sealed class Employee permits Manager, Salesman{
 

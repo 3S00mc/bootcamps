@@ -4,10 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="468d8ce0-6585-45a8-94eb-14d13b569a14" name="Changes" comment="Final. Conclusao do projeto bootcamp.">
-      <change afterPath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/log_teste_transacoes/LogTesteTransacoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/verificador_tamanho_formulario/VerificadorTamanhoNome.java" afterDir="false" />
+    <list default="true" id="468d8ce0-6585-45a8-94eb-14d13b569a14" name="Changes" comment="Desafios dee codigo e de projeto em POO.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/exercicios/1 - Fundamentos da Linguagem de Programação Java.md" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/exercicios/1 - Fundamentos da Linguagem de Programação Java.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/exercicios/2 - Estruturas de Controle em Java.MD" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/exercicios/2 - Estruturas de Controle em Java.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/exercicios/3 - Java e a Arte da Abstração com Classes e Encapsulamento.md" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/exercicios/3 - Java e a Arte da Abstração com Classes e Encapsulamento.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/exercicios/4 - Herança e Polimorfismo em Java .md" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/exercicios/4 - Herança e Polimorfismo em Java .md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/exercicios/5 - Dominando Interfaces e Lambda em Java.md" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/exercicios/5 - Dominando Interfaces e Lambda em Java.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/exercicios/6 - Praticando com Collections e Outras Classes Úteis do Java .md" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/exercicios/6 - Praticando com Collections e Outras Classes Úteis do Java .md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/projetos/1 - Conceitos Básicos Para Começar a Programar em Java.md" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/projetos/1 - Conceitos Básicos Para Começar a Programar em Java.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/projetos/2 - Programação Orientada a Objetos e Estruturas de Dados com Java.md" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/projetos/2 - Programação Orientada a Objetos e Estruturas de Dados com Java.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/projetos/3 - Gerenciando Exceções, IO e Dependências em Java.md" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/projetos/3 - Gerenciando Exceções, IO e Dependências em Java.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/projetos/4 - Técnicas Avançadas, Padrões e Persistência (Literalmente).md" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/projetos/4 - Técnicas Avançadas, Padrões e Persistência (Literalmente).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/desafio_bootcamp/dominio/Bootcamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/desafios/desafio_bootcamp/dominio/Bootcamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/desafio_bootcamp/dominio/Conteudo.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/desafios/desafio_bootcamp/dominio/Conteudo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/desafio_bootcamp/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/desafios/desafio_bootcamp/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/desafio_bootcamp/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/desafios/desafio_bootcamp/dominio/Dev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/desafio_bootcamp/dominio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/desafios/desafio_bootcamp/dominio/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/desafio_bootcamp/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/desafios/desafio_bootcamp/dominio/Mentoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/log_teste_transacoes/LogTesteTransacoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/desafios/log_teste_transacoes/LogTesteTransacoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/desafios/verificador_tamanho_formulario/VerificadorTamanhoNome.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/desafios/verificador_tamanho_formulario/VerificadorTamanhoNome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/teoria/Develop.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/teoria/Develop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/teoria/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/teoria/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/teoria/For.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/teoria/For.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/teoria/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/teoria/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/teoria/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/teoria/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/teoria/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/teoria/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/teoria/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/teoria/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/teoria/Records.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/teoria/Records.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/teoria/Salesman.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/teoria/Salesman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/teoria/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/teoria/SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco-java-junit/src/main/java/br/com/bradesco/teoria/While.java" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/src/main/java/teoria/While.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +54,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "3S00mc"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;3S00mc&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:3S00mc/bootcamps.git",
-    "accountId": "0f32ad01-7b5e-4cde-b7c9-ecf16da0b0da"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:3S00mc/bootcamps.git&quot;,
+    &quot;accountId&quot;: &quot;0f32ad01-7b5e-4cde-b7c9-ecf16da0b0da&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="37AmYKE9q4leNHzLvEQQLNspojW" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,7 +87,11 @@
     "Application.Main.executor": "Run",
     "Application.VerificadorTamanhoNome.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-vcs.roots.invalid": "Invalid VCS root mappings",
+    "Notification.DoNotAsk-vcs.roots.invalid": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -64,14 +101,23 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.26936415",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pedro\OneDrive\Documentos\Carreira\Arquitetura de Software\bootcamps\bradesco-java-junit\src\main\java\br\com\bradesco\exercicios\bdd\features" />
+      <recent name="C:\Users\pedro\OneDrive\Documentos\Carreira\Arquitetura de Software\bootcamps\bradesco-java-junit\src\main\java\br\com\bradesco\exercicios\bdd" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.VerificadorTamanhoNome">
     <configuration name="LogTesteTransacoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.bradesco.desafios.log_teste_transacoes.LogTesteTransacoes" />
-      <module name="bootcamp-bradesco-java-junit" />
+      <module name="bootcamp-bradesco" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.bradesco.desafios.log_teste_transacoes.*" />
@@ -84,7 +130,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.bradesco.desafios.desafio_bootcamp.dominio.Main" />
-      <module name="bootcamp-bradesco-java-junit" />
+      <module name="bootcamp-bradesco" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.bradesco.desafios.desafio_bootcamp.dominio.*" />
@@ -97,7 +143,7 @@
     </configuration>
     <configuration name="VerificadorTamanhoNome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.bradesco.desafios.verificador_tamanho_formulario.VerificadorTamanhoNome" />
-      <module name="bootcamp-bradesco-java-junit" />
+      <module name="bootcamp-bradesco" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.bradesco.desafios.verificador_tamanho_formulario.*" />
@@ -131,7 +177,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1766354296828</updated>
-      <workItem from="1766354298441" duration="12850000" />
+      <workItem from="1766354298441" duration="14983000" />
+      <workItem from="1766381768146" duration="57000" />
+      <workItem from="1766381840487" duration="452000" />
+      <workItem from="1766382342164" duration="15000" />
+      <workItem from="1766385386199" duration="324000" />
+      <workItem from="1766435675181" duration="561000" />
+      <workItem from="1766436257080" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="Modificação da estrutura dos bootcamps, e inicio do desafio de codigo junit.">
       <option name="closed" value="true" />
@@ -149,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766367096051</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Desafios dee codigo e de projeto em POO.">
+      <option name="closed" value="true" />
+      <created>1766368171859</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766368171859</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +233,7 @@
     </ignored-roots>
     <MESSAGE value="Modificação da estrutura dos bootcamps, e inicio do desafio de codigo junit." />
     <MESSAGE value="Final. Conclusao do projeto bootcamp." />
-    <option name="LAST_COMMIT_MESSAGE" value="Final. Conclusao do projeto bootcamp." />
+    <MESSAGE value="Desafios dee codigo e de projeto em POO." />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafios dee codigo e de projeto em POO." />
   </component>
 </project>

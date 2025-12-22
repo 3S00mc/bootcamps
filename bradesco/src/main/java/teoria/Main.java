@@ -1,4 +1,4 @@
-package br.com.bradesco.teoria;
+package teoria;
 
 public class Main {
     public static void main(String[] args) {

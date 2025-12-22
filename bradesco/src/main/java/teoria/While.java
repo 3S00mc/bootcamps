@@ -1,4 +1,4 @@
-package br.com.bradesco.teoria;
+package teoria;
 
 import java.util.Scanner;
 

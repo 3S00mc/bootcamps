@@ -1,4 +1,4 @@
-package br.com.bradesco.desafios.desafio_bootcamp.dominio;
+package desafios.desafio_bootcamp.dominio;
 
 import java.time.LocalDate;
 
