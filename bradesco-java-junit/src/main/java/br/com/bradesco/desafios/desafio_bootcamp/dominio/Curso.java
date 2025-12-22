@@ -1,10 +1,8 @@
 package br.com.bradesco.desafios.desafio_bootcamp.dominio;
 
-public class Curso {
+public class Curso extends Conteudo{
 
-    // Attributes
-    private String titulo;
-    private String descricao;
+    //Attributes
     private int cargaHoraria;
 
     //Constructors
@@ -12,22 +10,12 @@ public class Curso {
     }
 
     //Methods
-    public String getTitulo() {
-        return titulo;
+    @Override
+    public double calcularXp() {
+        return XP_PADRAO * cargaHoraria;
     }
 
-    public void setTitulo(String titulo) {
-        this.titulo = titulo;
-    }
-
-    public String getDescricao() {
-        return descricao;
-    }
-
-    public void setDescricao(String descricao) {
-        this.descricao = descricao;
-    }
-
+    //Getters and Setters
     public int getCargaHoraria() {
         return cargaHoraria;
     }
@@ -39,6 +27,6 @@ public class Curso {
     //toString
     @Override
     public String toString() {
-        return "Curso [titulo=" + titulo + ", descricao=" + descricao + ", cargaHoraria=" + cargaHoraria + "]";
+        return "Curso [titulo=" + getTitulo() + ", descricao=" + getDescricao() + ", cargaHoraria=" + cargaHoraria + "]";
     }
 }

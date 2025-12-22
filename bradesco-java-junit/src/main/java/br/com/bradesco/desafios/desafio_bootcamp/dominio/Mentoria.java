@@ -2,10 +2,10 @@ package br.com.bradesco.desafios.desafio_bootcamp.dominio;
 
 import java.time.LocalDate;
 
-public class Mentoria {
-    // Attributes
-    private String titulo;
-    private String descricao;
+public class Mentoria extends Conteudo{
+
+
+    //Attributes
     private LocalDate data;
 
     //Constructors
@@ -13,22 +13,12 @@ public class Mentoria {
     }
 
     //Methods
-    public String getTitulo() {
-        return titulo;
+    @Override
+    public double calcularXp() {
+        return XP_PADRAO + 20;
     }
 
-    public void setTitulo(String titulo) {
-        this.titulo = titulo;
-    }
-
-    public String getDescricao() {
-        return descricao;
-    }
-
-    public void setDescricao(String descricao) {
-        this.descricao = descricao;
-    }
-
+    //Getters and Setters
     public LocalDate getData() {
         return data;
     }
@@ -40,6 +30,6 @@ public class Mentoria {
     //toString
     @Override
     public String toString() {
-        return "Mentoria [titulo=" + titulo + ", descricao=" + descricao + ", data=" + data + "]";
+        return "Mentoria [titulo=" + getTitulo() + ", descricao=" + getDescricao() + ", data=" + data + "]";
     }
 }
