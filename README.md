@@ -1,19 +1,20 @@
 ```markdown
-# 📁 Structure Repository
+📁 Structure Repository
+```
 
-```text
+```
 bootcamps/
 ├── README.md
 ├── bradesco/
-│   ├── exercicios/      # Lista de exercícios
-│   ├── projetos/        # Lista de Projetos
-│   ├── src/
-│   │   └── main/
-│   │       └── java/
-│   │           ├── desafios/
-│   │           │   ├── exercicios/
-│   │           │   └── projetos/
-│   │           └── teoria/
-│   ├── slides/
-│   └── videos/
+│       ├── exercicios/      [ Enunciados ]
+│       ├── projetos/        [ Enunciados ]
+│       └── src/
+│           └── main/
+│               └── java/
+│                   ├── desafios/
+│                   ├── exercicios/
+│                   ├── projetos/
+│                   └── teoria/
+
 └── ci&t/
+```
