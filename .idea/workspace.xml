@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="468d8ce0-6585-45a8-94eb-14d13b569a14" name="Changes" comment="Alteracao de estrutura">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bradesco/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="468d8ce0-6585-45a8-94eb-14d13b569a14" name="Changes" comment="Alteracao de estrutura" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +162,7 @@
       <workItem from="1766385386199" duration="324000" />
       <workItem from="1766435675181" duration="561000" />
       <workItem from="1766436257080" duration="312000" />
-      <workItem from="1766436580673" duration="418000" />
+      <workItem from="1766436580673" duration="730000" />
     </task>
     <task id="LOCAL-00001" summary="Modificação da estrutura dos bootcamps, e inicio do desafio de codigo junit.">
       <option name="closed" value="true" />
@@ -203,7 +196,23 @@
       <option name="project" value="LOCAL" />
       <updated>1766436626975</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Alteracao de estrutura">
+      <option name="closed" value="true" />
+      <created>1766437124711</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1766437124711</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Alteracao de estrutura">
+      <option name="closed" value="true" />
+      <created>1766437214367</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766437214367</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
