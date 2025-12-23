@@ -48,6 +48,11 @@
  - Gerenciamento de dependências com Maven ou Gradle
 
 # 🔹 QA e Testes com JUnit
+ - MPS e Qualidade de Desenvolvimento
+ - Validacao x Verificacao
+ - Normas e Padroes de Qualidade
+ - Ciclo de vida do bug
+ - Niveis, Tipos e Tecnicas de Testes
  - Testes unitários
  - Anotações do JUnit
  - Testes positivos e negativos

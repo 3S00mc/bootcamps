@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="468d8ce0-6585-45a8-94eb-14d13b569a14" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="468d8ce0-6585-45a8-94eb-14d13b569a14" name="Changes" comment="gitignore">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bradesco/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bradesco/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +173,7 @@
       <workItem from="1766436257080" duration="312000" />
       <workItem from="1766436580673" duration="730000" />
       <workItem from="1766458115851" duration="374000" />
-      <workItem from="1766458504747" duration="339000" />
+      <workItem from="1766458504747" duration="1413000" />
     </task>
     <task id="LOCAL-00001" summary="Modificação da estrutura dos bootcamps, e inicio do desafio de codigo junit.">
       <option name="closed" value="true" />
@@ -245,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766458569079</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="gitignore">
+      <option name="closed" value="true" />
+      <created>1766458879045</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1766458879045</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,6 +295,7 @@
     <MESSAGE value="Alteracao de estrutura" />
     <MESSAGE value="Inlusao do teste QA com Gherkin." />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
   </component>
 </project>
