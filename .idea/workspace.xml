@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="468d8ce0-6585-45a8-94eb-14d13b569a14" name="Changes" comment="Modificacoes no README.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +172,10 @@
       <workItem from="1766436257080" duration="312000" />
       <workItem from="1766436580673" duration="730000" />
       <workItem from="1766458115851" duration="374000" />
-      <workItem from="1766458504747" duration="3211000" />
+      <workItem from="1766458504747" duration="3400000" />
+      <workItem from="1766479303887" duration="11000" />
+      <workItem from="1766479324616" duration="225000" />
+      <workItem from="1766927452439" duration="454000" />
     </task>
     <task id="LOCAL-00001" summary="Modificação da estrutura dos bootcamps, e inicio do desafio de codigo junit.">
       <option name="closed" value="true" />
@@ -285,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766465666213</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Modificacoes no README.">
+      <option name="closed" value="true" />
+      <created>1766465993444</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1766465993444</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

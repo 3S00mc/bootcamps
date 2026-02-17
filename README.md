@@ -15,6 +15,5 @@ bootcamps/
 │                   ├── exercicios/
 │                   ├── projetos/
 │                   └── teoria/
-
 └── ci&t/
 ```
