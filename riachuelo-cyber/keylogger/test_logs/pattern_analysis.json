@@ -1,0 +1,31 @@
+{
+  "simulation_note": "EDUCATIONAL PATTERN ANALYSIS",
+  "timestamp": "2026-02-17T11:13:43.991878",
+  "analysis": {
+    "total_characters": 77,
+    "unique_characters": 30,
+    "top_bigrams": [
+      {
+        "bigram": "us",
+        "count": 2
+      },
+      {
+        "bigram": "se",
+        "count": 2
+      },
+      {
+        "bigram": "er",
+        "count": 2
+      },
+      {
+        "bigram": "e=",
+        "count": 2
+      },
+      {
+        "bigram": "as",
+        "count": 2
+      }
+    ],
+    "reconstructed_text_preview": "username=alicepassword=SecurePass123!email=user@domain.comphone=555-1234-5678"
+  }
+}

@@ -20,11 +20,17 @@ bootcamps/
 │   └── pom.xml                  [Maven Configuration]
 │
 └── riachuelo-cyber/             [Cybersecurity & Malware Analysis]
-    └── malware/
-        ├── ransomware_sim.py    [Ransomware Simulation Script]
-        ├── run_test_sim.py      [Test Runner with Sample Data]
+    ├── malware/
+    │   ├── ransomware_sim.py    [Ransomware Simulation Script]
+    │   ├── run_test_sim.py      [Test Runner with Sample Data]
+    │   ├── requirements.txt     [Python Dependencies]
+    │   └── README_SIMULATION.md [Detailed Documentation]
+    │
+    └── keylogger/
+        ├── keylogger_sim.py     [Keylogger Simulation Module]
+        ├── run_test_keylogger.py [Test Suite with Examples]
         ├── requirements.txt     [Python Dependencies]
-        └── README_SIMULATION.md [Detailed Documentation]
+        └── README_KEYLOGGER.md  [Detailed Documentation]
 ```
 
 ## 📚 Programs
@@ -42,9 +48,9 @@ Cybersecurity training program including malware analysis and safe simulation te
 - **Location**: `riachuelo-cyber/`
 - **Focus**: Security Training & Educational Simulations
 - **Current Content**: 
-  - Safe ransomware simulation for educational purposes
-  - Non-destructive encryption/decryption demonstration
-  - Test suite with sample data
+  - **Malware**: Safe ransomware simulation with encryption/decryption
+  - **Keylogger**: Educational keystroke logging simulation with pattern analysis
+  - **Both**: Non-destructive simulations, suitable for learning
 
 ## 🚀 Quick Start
 
@@ -62,7 +68,34 @@ python run_test_sim.py
 - Decrypted copy: `test_ransom/sample.txt.dec`
 - Simulation marker: `test_ransom/SIMULATION_NOTE.txt`
 
-### Test Results Example
+For detailed information, see [riachuelo-cyber/malware/README_SIMULATION.md](riachuelo-cyber/malware/README_SIMULATION.md).
+
+### Running the Keylogger Simulation Test
+
+```powershell
+cd riachuelo-cyber/keylogger
+python run_test_keylogger.py
+```
+
+**What the test demonstrates:**
+1. **Keystroke Capture** - Simulating the logging of individual keystrokes
+2. **Pattern Analysis** - Analyzing frequency patterns in captured data (bigrams)
+3. **Data Persistence** - Saving and loading keystroke logs from JSON files
+4. **Data Reconstruction** - Recovering original typed text from captured keystrokes
+
+**Generated Output:**
+- `keystroke_log.json` - Log of captured keystrokes
+- `pattern_analysis.json` - Bigram frequency analysis
+- `saved_session.json` - Saved session example
+- `KEYLOGGER_SIMULATION_NOTE.txt` - Educational marker
+
+For detailed information, see [riachuelo-cyber/keylogger/README_KEYLOGGER.md](riachuelo-cyber/keylogger/README_KEYLOGGER.md).
+
+---
+
+## Test Results Summary
+
+### Ransomware Simulation
 
 The test creates a simulation directory with sample password data:
 
@@ -92,7 +125,55 @@ backup_admin: b@ckup_SIM_#01
 
 ✅ **Verification**: The decrypted file matches the original 100%
 
-For detailed information, see [riachuelo-cyber/malware/README_SIMULATION.md](riachuelo-cyber/malware/README_SIMULATION.md).
+### Keylogger Simulation
+
+The test demonstrates keystroke capture and pattern analysis:
+
+**Test 1: Basic Keystroke Logging**
+```
+✓ Simulating keystroke capture for: 'admin@company.com'
+
+Capture Statistics:
+  - Total keys captured: 17
+  - Session duration: 0.000 seconds
+  - Capture rate: 17.0 keys/second
+```
+
+**Test 2: Pattern Analysis**
+```
+Simulating keystroke capture for multiple inputs:
+  → username=alice
+  → password=SecurePass123!
+  → email=user@domain.com
+  → phone=555-1234-5678
+
+Pattern Analysis Results:
+  - Total characters captured: 77
+  - Unique characters: 30
+
+Most Common Bigrams:
+  - 'us': 2 times
+  - 'se': 2 times
+  - 'er': 2 times
+```
+
+**Test 3: Log Verification**
+```
+✓ Original input: Test@12345
+✓ Reconstructed: Test@12345
+✓ Content match: YES ✓
+```
+
+---
+
+## 🎓 Learning Objectives
+
+These simulations teach security professionals about:
+
+- **Ransomware**: Encryption mechanisms, file operations, data exfiltration
+- **Keyloggers**: Input monitoring, data capture, pattern analysis, forensics
+
+Both are implemented **safely**: no system files are affected, outputs are clearly marked as educational simulations, and all operations are reversible.
 
 ## ⚠️ Important Notes
 
@@ -101,6 +182,26 @@ For detailed information, see [riachuelo-cyber/malware/README_SIMULATION.md](ria
 - Original files are never modified or deleted
 - Always use dedicated test directories for experimentation
 - Review documentation before running any scripts
+- **NEVER** use these simulations against systems without explicit permission
+- Unauthorized access to computer systems is illegal
+
+## 🔐 Ethical & Legal Considerations
+
+These educational materials teach about cybersecurity threats. Remember:
+
+✓ **Legitimate Uses:**
+- Learning security fundamentals
+- Understanding threat vectors
+- Building defensive strategies
+- Career development in cybersecurity
+
+✗ **Illegal Uses:**
+- Unauthorized system access
+- Monitoring without consent
+- Malicious code deployment
+- Data theft or espionage
+
+All code is provided for learning within a bootcamp environment. Users are responsible for complying with all applicable laws and regulations.
 
 ---
 

@@ -1,0 +1,75 @@
+{
+  "simulation_note": "THIS IS AN EDUCATIONAL SIMULATION",
+  "timestamp": "2026-02-17T11:13:43.992979",
+  "statistics": {
+    "total_keys": 10,
+    "printable_characters": 10,
+    "special_keys": 0,
+    "session_duration_seconds": 1.3e-05,
+    "keys_per_second": 10.0,
+    "session_start": "2026-02-17T11:13:43.992964",
+    "session_end": "2026-02-17T11:13:43.992977"
+  },
+  "keystrokes": [
+    {
+      "timestamp": "2026-02-17T11:13:43.992966",
+      "key": "T",
+      "char_code": 84,
+      "sequence_number": 1
+    },
+    {
+      "timestamp": "2026-02-17T11:13:43.992970",
+      "key": "e",
+      "char_code": 101,
+      "sequence_number": 2
+    },
+    {
+      "timestamp": "2026-02-17T11:13:43.992971",
+      "key": "s",
+      "char_code": 115,
+      "sequence_number": 3
+    },
+    {
+      "timestamp": "2026-02-17T11:13:43.992972",
+      "key": "t",
+      "char_code": 116,
+      "sequence_number": 4
+    },
+    {
+      "timestamp": "2026-02-17T11:13:43.992973",
+      "key": "@",
+      "char_code": 64,
+      "sequence_number": 5
+    },
+    {
+      "timestamp": "2026-02-17T11:13:43.992974",
+      "key": "1",
+      "char_code": 49,
+      "sequence_number": 6
+    },
+    {
+      "timestamp": "2026-02-17T11:13:43.992974",
+      "key": "2",
+      "char_code": 50,
+      "sequence_number": 7
+    },
+    {
+      "timestamp": "2026-02-17T11:13:43.992975",
+      "key": "3",
+      "char_code": 51,
+      "sequence_number": 8
+    },
+    {
+      "timestamp": "2026-02-17T11:13:43.992976",
+      "key": "4",
+      "char_code": 52,
+      "sequence_number": 9
+    },
+    {
+      "timestamp": "2026-02-17T11:13:43.992977",
+      "key": "5",
+      "char_code": 53,
+      "sequence_number": 10
+    }
+  ]
+}
