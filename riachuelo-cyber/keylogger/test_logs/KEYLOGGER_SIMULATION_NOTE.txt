@@ -1,0 +1,25 @@
+EDUCATIONAL KEYLOGGER SIMULATION
+=================================
+
+This is a SIMULATION for SECURITY TRAINING PURPOSES ONLY.
+
+This simulation demonstrates:
+- How keystroke logging works conceptually
+- What data a keylogger might capture
+- How to analyze and pattern-match keystroke data
+- Why security awareness and endpoint protection matter
+
+IMPORTANT:
+- This is NOT a real keylogger and does NOT work on actual systems
+- This code is for learning about security vulnerabilities
+- Do NOT use this code to monitor anyone without explicit permission
+- Do NOT modify this code to create a real keylogger
+- Unauthorized keylogging is ILLEGAL in most jurisdictions
+
+Learning Goals:
+1. Understand keystroke logging as a security threat
+2. Learn about data capture and analysis techniques
+3. Appreciate the importance of security monitoring and endpoint protection
+4. Develop defensive security awareness
+
+For more information, see README_KEYLOGGER.md

@@ -1,0 +1,9 @@
+# Educational Keylogger Simulation Requirements
+# 
+# This simulation uses only Python standard library modules
+# No external dependencies required for the basic simulation
+
+# Optional: For enhanced analysis and visualization (not required for basic tests)
+# Uncomment below if you want to extend the simulation:
+# matplotlib>=3.5.0  # For visualizing keystroke patterns
+# numpy>=1.21.0     # For statistical analysis
