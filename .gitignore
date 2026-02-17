@@ -1,3 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Ignore keys and simulation outputs
+riachuelo-cyber/malware/chave_sim.key
+riachuelo-cyber/malware/test_ransom/
+riachuelo-cyber/malware/__pycache__/
+
+# Editor directories
+.vscode/
+.idea/
 # Created by https://www.toptal.com/developers/gitignore/api/intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij
 
